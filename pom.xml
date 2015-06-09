@@ -3,7 +3,7 @@
 
 	<groupId>com.github.crisposs</groupId>
 	<artifactId>jabsc-maven-plugin</artifactId>
-	<version>0.1.0</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>maven-plugin</packaging>
 	<name>Maven Plugin for ABS to Java Compiler (jabsc)</name>
 
@@ -145,7 +145,7 @@
 		<url>https://github.com/CrispOSS/jabsc-maven-plugin.git</url>
 		<connection>scm:git:https://github.com/CrispOSS/jabsc-maven-plugin.git</connection>
 		<developerConnection>scm:git:git@github.com:CrispOSS/jabsc-maven-plugin.git</developerConnection>
-		<tag>v0.1.0</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<profiles>
