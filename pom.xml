@@ -20,7 +20,7 @@
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<version.jabsc>0.1.4</version.jabsc>
+		<version.jabsc>0.1.5</version.jabsc>
 		<version.maven>3.3.3</version.maven>
 		<version.maven-project>2.2.1</version.maven-project>
 	</properties>
